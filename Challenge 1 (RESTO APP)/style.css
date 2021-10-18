@@ -14,11 +14,6 @@ body {
 
 /* edit konten */
 
-.konten {
-    margin-top: 12px;
-    height: 96vh;
-}
-
 img {
     width: 350px;
     display: grid;
