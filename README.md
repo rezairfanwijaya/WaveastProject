@@ -4,5 +4,7 @@ kumpulan project waveast
 
 
 Preview Challenge 1 (Resto APP)
-![preview](https://user-images.githubusercontent.com/87264553/137737364-d15c3556-4c2b-4bdb-b2e6-c8db450122c8.png)
+DEMO : https://abdasresto.netlify.app/
+
+![preview](https://user-images.githubusercontent.com/87264553/137738468-82c2de4f-747b-45f0-adf4-7df088273ad3.png)
 
