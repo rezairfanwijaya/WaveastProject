@@ -18,3 +18,12 @@ DEMO : https://abdastasty.netlify.app/
 
 ![preview](https://user-images.githubusercontent.com/87264553/138030041-74ca56ad-fba3-4523-968e-3f1cae28b6c1.png)
 
+
+Preview Challenge 3 (Healty Eating Landing Page)
+
+
+DEMO : https://abdashealty.netlify.app/
+
+![preview](https://user-images.githubusercontent.com/87264553/138649378-e140e036-f5f7-43ae-adc6-62ac329e710c.png)
+
+
