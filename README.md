@@ -16,7 +16,7 @@ Preview Challenge 2 (Tasty Food)
 
 DEMO : https://abdastasty.netlify.app/
 
-![preview](https://user-images.githubusercontent.com/87264553/138030041-74ca56ad-fba3-4523-968e-3f1cae28b6c1.png)
+![preview](https://user-images.githubusercontent.com/87264553/138650850-3ea9192e-a443-4f3f-857a-d4bf455f1c50.png)
 
 
 Preview Challenge 3 (Healty Eating Landing Page)
