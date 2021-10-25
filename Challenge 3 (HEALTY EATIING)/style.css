@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600;700&display=swap');
+body {
+    padding: 90px 120px;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    color: #3b3b3b;
+}
+
+.head {
+    margin-bottom: 40px;
+}
+
+.judul {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.sub-judul {
+    font-weight: 600;
+}
+
+.desc {
+    font-size: 17px;
+}
+
+.caption {
+    background-color: #2cccc4;
+}
+
+.caption-dua {
+    background-color: #478ac9;
+}
+
+.pepaya {
+    background-color: #f8b600;
+}
+
+.pepaya img {
+    width: 60%;
+}
+
+.ceri {
+    background-color: #bdebdf;
+}
+
+.ceri img {
+    width: 75%;
+}
+
+.jeruk {
+    background-color: #65c5f5;
+}
+
+.jeruk img {
+    width: 70%;
+}
+
+.naga {
+    background-color: #65e75f;
+}
+
+.naga img {
+    width: 100%;
+}
+
+.nanas {
+    background-color: #ffd33a;
+}
+
+.nanas img {
+    width: 62%;
+}
+
+.jeruk2 {
+    background-color: #66c6f8;
+}
+
+
+/* responsive */
+
+@media (max-width:768px) {
+    body {
+        padding: 45px 60px;
+    }
+    .judul {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+    .desc {
+        font-size: 17px;
+    }
+}
+
+@media (max-width:540px) {
+    * {
+        margin: 12px 0;
+    }
+}
+
+
+/* responsive */
