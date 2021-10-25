@@ -92,6 +92,9 @@ body {
 }
 
 @media (max-width:540px) {
+    body {
+        padding: 12px 30px;
+    }
     * {
         margin: 12px 0;
     }
